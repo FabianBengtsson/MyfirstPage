@@ -67,6 +67,11 @@ color:white;
 
 #footer {
     color: white;
+    text-shadow:
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
 }
 
 .left{
@@ -97,4 +102,21 @@ color:white;
     overflow: hidden;
     width: 50%;
     padding: 10px;
+  }
+
+#h1style {
+    color: white;
+    text-shadow:
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+  }
+  #pstyle {
+    color: white;
+    text-shadow:
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
   }
